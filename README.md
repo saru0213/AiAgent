@@ -55,7 +55,7 @@ This project demonstrates how to build a basic **AI Agent** in **n8n** using **G
 
 > Example of a working AI Agent workflow that calculates the square of a number using Gemini and n8n.
 
-![Workflow Screenshot](./screenshot.png) <!-- Replace with actual screenshot path -->
+![Workflow Screenshot](./Screenshot2025-07-09023632.png) <!-- Replace with actual screenshot path -->
 
 ---
 
